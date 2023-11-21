@@ -2,7 +2,7 @@ const data = {
     firstname: "Ray",
     lastname: "Teoh",
     email: "teohraykeat@gmail.com",
-    password: "cummingonsavannah",
+    password: "random",
     picturepath: "",
     friends: [],
     location: "San Francisco",
